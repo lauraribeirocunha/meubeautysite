@@ -1,0 +1,63 @@
+img{position: absolute;
+width: 400px;
+height: 552px;
+left: 112px;
+top: 96px;
+
+background: url(flor.jpg);
+border-radius: 118px;}
+
+.menu1{/* galeria */
+
+
+position: absolute;
+width: 124px;
+height: 47px;
+left: 923px;
+top: 198px;
+
+font-family: 'Jacques Francois';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 47px;
+text-decoration-line: underline;
+text-transform: capitalize;
+
+color: #000000;}
+.menu2{/* contato */
+
+
+position: absolute;
+width: 135px;
+height: 47px;
+left: 1149px;
+top: 198px;
+
+font-family: 'Jacques Francois';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 47px;
+text-decoration-line: underline;
+text-transform: capitalize;
+
+color: #000000;}
+.menu0{/* Página inicial */
+
+
+position: absolute;
+width: 229px;
+height: 47px;
+right: 620px;
+top: calc(50% - 47px/2 - 802.5px);
+
+font-family: 'Jacques Francois';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 47px;
+text-decoration-line: underline;
+text-transform: capitalize;
+
+color: #000000;}
