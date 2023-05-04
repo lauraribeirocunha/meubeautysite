@@ -1,11 +1,19 @@
-img{position: absolute;
-width: 400px;
-height: 552px;
-left: 112px;
-top: 96px;
+body{
+  background-color: #CBA56B
+}
 
-background: url(flor.jpg);
-border-radius: 118px;}
+
+
+
+
+img{position: absolute;
+width: 350px;
+height: 702px;
+left: 120px;
+top: 51px;
+
+background: url(pg.jpg);
+border-radius: 136px;}
 
 .menu1{/* galeria */
 
@@ -58,6 +66,73 @@ font-weight: 400;
 font-size: 36px;
 line-height: 47px;
 text-decoration-line: underline;
+text-transform: capitalize;
+
+color: #000000;}
+
+
+.imagem2{/* GP 1 */
+
+
+position: absolute;
+width: 736px;
+height: 922px;
+left: 704px;
+top: 624px;
+
+background: url(GP.jpg);
+border-radius: 248px;}
+
+p1{/* Nome: Laura Ribeiro Cunha  */
+
+
+position: absolute;
+width: 631px;
+height: 298px;
+left: 74px;
+top: 999px;
+
+font-family: 'Jacques Francois';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 47px;
+text-transform: capitalize;
+
+color: #000000;}
+
+p{/* 16 anos */
+
+
+position: absolute;
+width: 133px;
+height: 47px;
+left: 74px;
+top: 1048px;
+
+font-family: 'Jacques Francois';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 47px;
+text-transform: capitalize;
+
+color: #000000;}
+
+p2{/* Amo Jesus */
+
+
+position: absolute;
+width: 176px;
+height: 47px;
+left: 74px;
+top: 1207px;
+
+font-family: 'Jacques Francois';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 47px;
 text-transform: capitalize;
 
 color: #000000;}
